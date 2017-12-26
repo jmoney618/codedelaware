@@ -1,0 +1,18 @@
+ul li p
+{
+  font-family: 'Raleway', sans-serif;
+}
+#events h1
+{
+  text-transform: uppercase;
+  text-align: center
+}
+#events h4
+{
+  text-transform: uppercase;
+  padding-left: 30px;
+}
+#events p
+{
+  padding-left: 30px;
+}
